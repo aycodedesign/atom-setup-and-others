@@ -1,0 +1,12 @@
+atom-wrap-in-tag
+auto-detect-indentation
+default-language
+duplicate-line-or-selection
+emmet
+emmet-snippets-compatibility
+file-icons
+highlight-selected
+jshint
+multi-cursor
+simple-panes
+native-color-picker
